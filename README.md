@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Welcome to Cookio Expo app 👋
 
 ## *Screenshots*
 
