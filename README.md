@@ -1,8 +1,22 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## *Screenshots*
+
+<img src="https://github.com/user-attachments/assets/fe84fb8c-523a-49de-b966-625895699f08" width="120" />
+
+<img src="https://github.com/user-attachments/assets/2b8943de-9a6d-43c3-a7bc-4b116583fdbf" width="120" />
+
+<img src="https://github.com/user-attachments/assets/330995c2-cc48-4e8f-8079-4d8eafe60b98" width="120" />
+
+<img src="https://github.com/user-attachments/assets/42a01cd1-c752-4e21-b693-d21d8379c93f" width="120" />
+
+<img src="https://github.com/user-attachments/assets/987c53b3-6ded-45b0-b03a-d0442fe98697" width="120" />
+
+<img src="https://github.com/user-attachments/assets/821f4b12-6009-4825-9e7c-87b08328588e" width="120" />
 
 ## Get started
+
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 1. Install dependencies
 
